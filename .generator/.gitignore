@@ -1,0 +1,6 @@
+__pycache__/
+.cache/
+*.pyc
+*.csv
+collaboration.py
+test_collaboration.py

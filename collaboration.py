@@ -5,7 +5,7 @@ def greet_radu_minea():
 	return 'missing'
 
 def greet_diana_dutica():
-	return 'missing'
+	return 'Diana Dutica'
 
 def greet_horia_ignat():
 	return 'missing'

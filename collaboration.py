@@ -8,7 +8,7 @@ def greet_diana_dutica():
 	return 'missing'
 
 def greet_horia_ignat():
-	return 'missing'
+	return "Horia Ignat"
 
 def greet_mara_nicolae():
 	return 'missing'

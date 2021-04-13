@@ -122,7 +122,7 @@ def greet_mircea_adrian_pantazi():
 	return 'missing'
 
 def greet_miruna_elena_banu():
-	return 'miru.b99'
+	return 'Miruna-Elena Banu'
 
 def greet_nicoleta_corneanu():
 	return 'missing'

@@ -80,7 +80,7 @@ def greet_diana_dutica():
 	return 'missing'
 
 def greet_eduard_florin_necula():
-	return 'missing'
+	return 'Eduard Florin Necula'
 
 def greet_horia_ignat():
 	return 'missing'

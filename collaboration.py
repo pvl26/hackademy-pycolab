@@ -92,7 +92,7 @@ def greet_iulia_andreea_grigore():
 	return 'Iulia-Andreea Grigore'
 
 def greet_iustin_sima():
-	return 'missing'
+	return 'Iustin Sima'
 
 def greet_laura_trandafir():
 	return 'missing'

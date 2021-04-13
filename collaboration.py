@@ -41,7 +41,7 @@ def greet_andrei_laurentiu_olteanu():
 	return 'missing'
 
 def greet_andrei_serban():
-	return 'missing'
+	return 'Andrei Serban'
 
 def greet_andrei_alexandru_podaru():
 	return 'missing'

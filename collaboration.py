@@ -119,7 +119,7 @@ def greet_mihai_cosor():
 	return 'Mihai Cosor'
 
 def greet_mircea_adrian_pantazi():
-	return 'missing'
+	return 'Mircea Adrian Pantazi'
 
 def greet_miruna_elena_banu():
 	return 'missing'

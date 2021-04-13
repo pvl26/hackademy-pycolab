@@ -23,7 +23,7 @@ def greet_ana_maria_rotari():
 	return 'missing'
 
 def greet_ana_maria_andreea_blaga():
-	return 'missing'
+	return 'Anca-Madalina Cristea'
 
 def greet_anca_madalina_cristea():
 	return 'missing'

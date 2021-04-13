@@ -152,7 +152,7 @@ def greet_razvan_matisan():
 	return 'missing'
 
 def greet_razvan_ursatanu():
-	return 'missing'
+	return 'Răzvan Ursățanu'
 
 def greet_sebastian_ion_nae():
 	return 'missing'

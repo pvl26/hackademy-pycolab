@@ -3,11 +3,155 @@
 
 from collaboration import *
 
-def test_radu_minea():
-	your_name = greet_radu_minea()
+def test_alexandra_luca():
+	your_name = greet_alexandra_luca()
 	if your_name == 'missing':
 		return
-	assert your_name == 'Radu Minea', 'Did you spell your name correctly?'
+	assert your_name == 'Alexandra Luca', 'Did you spell your name correctly?'
+
+def test_alexandra_moroiu():
+	your_name = greet_alexandra_moroiu()
+	if your_name == 'missing':
+		return
+	assert your_name == 'Alexandra Moroiu', 'Did you spell your name correctly?'
+
+def test_alexandra_andreea_balan():
+	your_name = greet_alexandra_andreea_balan()
+	if your_name == 'missing':
+		return
+	assert your_name == 'Alexandra-Andreea Balan', 'Did you spell your name correctly?'
+
+def test_alexandru_apostolescu():
+	your_name = greet_alexandru_apostolescu()
+	if your_name == 'missing':
+		return
+	assert your_name == 'Alexandru Apostolescu', 'Did you spell your name correctly?'
+
+def test_alexandru_toader():
+	your_name = greet_alexandru_toader()
+	if your_name == 'missing':
+		return
+	assert your_name == 'Alexandru Toader', 'Did you spell your name correctly?'
+
+def test_alin_bonciu():
+	your_name = greet_alin_bonciu()
+	if your_name == 'missing':
+		return
+	assert your_name == 'Alin Bonciu', 'Did you spell your name correctly?'
+
+def test_ana_maria_rotari():
+	your_name = greet_ana_maria_rotari()
+	if your_name == 'missing':
+		return
+	assert your_name == 'Ana-Maria Rotari', 'Did you spell your name correctly?'
+
+def test_ana_maria_andreea_blaga():
+	your_name = greet_ana_maria_andreea_blaga()
+	if your_name == 'missing':
+		return
+	assert your_name == 'Ana-Maria-Andreea Blaga', 'Did you spell your name correctly?'
+
+def test_anca_madalina_cristea():
+	your_name = greet_anca_madalina_cristea()
+	if your_name == 'missing':
+		return
+	assert your_name == 'Anca-Madalina Cristea', 'Did you spell your name correctly?'
+
+def test_andreea_prigoreanu():
+	your_name = greet_andreea_prigoreanu()
+	if your_name == 'missing':
+		return
+	assert your_name == 'Andreea Prigoreanu', 'Did you spell your name correctly?'
+
+def test_andrei_chirila():
+	your_name = greet_andrei_chirila()
+	if your_name == 'missing':
+		return
+	assert your_name == 'Andrei Chirilă', 'Did you spell your name correctly?'
+
+def test_andrei_david():
+	your_name = greet_andrei_david()
+	if your_name == 'missing':
+		return
+	assert your_name == 'Andrei David', 'Did you spell your name correctly?'
+
+def test_andrei_laurentiu_olteanu():
+	your_name = greet_andrei_laurentiu_olteanu()
+	if your_name == 'missing':
+		return
+	assert your_name == 'Andrei Laurentiu Olteanu', 'Did you spell your name correctly?'
+
+def test_andrei_serban():
+	your_name = greet_andrei_serban()
+	if your_name == 'missing':
+		return
+	assert your_name == 'Andrei Serban', 'Did you spell your name correctly?'
+
+def test_andrei_alexandru_podaru():
+	your_name = greet_andrei_alexandru_podaru()
+	if your_name == 'missing':
+		return
+	assert your_name == 'Andrei-Alexandru Podaru', 'Did you spell your name correctly?'
+
+def test_andrei_ioan_ionita():
+	your_name = greet_andrei_ioan_ionita()
+	if your_name == 'missing':
+		return
+	assert your_name == 'Andrei-Ioan Ioniță', 'Did you spell your name correctly?'
+
+def test_aurel_ristoiu():
+	your_name = greet_aurel_ristoiu()
+	if your_name == 'missing':
+		return
+	assert your_name == 'Aurel Ristoiu', 'Did you spell your name correctly?'
+
+def test_aurelia_miruna_hascau():
+	your_name = greet_aurelia_miruna_hascau()
+	if your_name == 'missing':
+		return
+	assert your_name == 'Aurelia-Miruna Hăşcău', 'Did you spell your name correctly?'
+
+def test_berta_ioana_voica():
+	your_name = greet_berta_ioana_voica()
+	if your_name == 'missing':
+		return
+	assert your_name == 'Berta Ioana Voica', 'Did you spell your name correctly?'
+
+def test_bianca_stoicut():
+	your_name = greet_bianca_stoicut()
+	if your_name == 'missing':
+		return
+	assert your_name == 'Bianca Stoicut', 'Did you spell your name correctly?'
+
+def test_bogdan_butanriu():
+	your_name = greet_bogdan_butanriu()
+	if your_name == 'missing':
+		return
+	assert your_name == 'Bogdan Butanriu', 'Did you spell your name correctly?'
+
+def test_camelia_alexandra_iancu():
+	your_name = greet_camelia_alexandra_iancu()
+	if your_name == 'missing':
+		return
+	assert your_name == 'Camelia-Alexandra Iancu', 'Did you spell your name correctly?'
+
+def test_claudiu_leonard_guster():
+	your_name = greet_claudiu_leonard_guster()
+	if your_name == 'missing':
+		return
+	assert your_name == 'Claudiu-Leonard Guster', 'Did you spell your name correctly?'
+
+def test_cristian_descultu():
+	your_name = greet_cristian_descultu()
+	if your_name == 'missing':
+		return
+	assert your_name == 'Cristian Descultu', 'Did you spell your name correctly?'
+
+def test_cristian_olaru():
+	your_name = greet_cristian_olaru()
+	if your_name == 'missing':
+		return
+	assert your_name == 'Cristian Olaru', 'Did you spell your name correctly?'
 
 def test_diana_dutica():
 	your_name = greet_diana_dutica()
@@ -15,11 +159,53 @@ def test_diana_dutica():
 		return
 	assert your_name == 'Diana Dutica', 'Did you spell your name correctly?'
 
+def test_eduard_florin_necula():
+	your_name = greet_eduard_florin_necula()
+	if your_name == 'missing':
+		return
+	assert your_name == 'Eduard Florin Necula', 'Did you spell your name correctly?'
+
 def test_horia_ignat():
 	your_name = greet_horia_ignat()
 	if your_name == 'missing':
 		return
 	assert your_name == 'Horia Ignat', 'Did you spell your name correctly?'
+
+def test_ioana_profeanu():
+	your_name = greet_ioana_profeanu()
+	if your_name == 'missing':
+		return
+	assert your_name == 'Ioana Profeanu', 'Did you spell your name correctly?'
+
+def test_iulia_andreea_grigore():
+	your_name = greet_iulia_andreea_grigore()
+	if your_name == 'missing':
+		return
+	assert your_name == 'Iulia-Andreea Grigore', 'Did you spell your name correctly?'
+
+def test_iustin_sima():
+	your_name = greet_iustin_sima()
+	if your_name == 'missing':
+		return
+	assert your_name == 'Iustin Sima', 'Did you spell your name correctly?'
+
+def test_laura_trandafir():
+	your_name = greet_laura_trandafir()
+	if your_name == 'missing':
+		return
+	assert your_name == 'Laura Trandafir', 'Did you spell your name correctly?'
+
+def test_laurentiu_olteanu():
+	your_name = greet_laurentiu_olteanu()
+	if your_name == 'missing':
+		return
+	assert your_name == 'Laurentiu Olteanu', 'Did you spell your name correctly?'
+
+def test_luca_petcu():
+	your_name = greet_luca_petcu()
+	if your_name == 'missing':
+		return
+	assert your_name == 'Luca Petcu', 'Did you spell your name correctly?'
 
 def test_mara_nicolae():
 	your_name = greet_mara_nicolae()
@@ -27,11 +213,71 @@ def test_mara_nicolae():
 		return
 	assert your_name == 'Mara Nicolae', 'Did you spell your name correctly?'
 
+def test_maria_stoichitescu():
+	your_name = greet_maria_stoichitescu()
+	if your_name == 'missing':
+		return
+	assert your_name == 'Maria Stoichitescu', 'Did you spell your name correctly?'
+
+def test_marius_dinu():
+	your_name = greet_marius_dinu()
+	if your_name == 'missing':
+		return
+	assert your_name == 'Marius Dinu', 'Did you spell your name correctly?'
+
+def test_marius_panduru():
+	your_name = greet_marius_panduru()
+	if your_name == 'missing':
+		return
+	assert your_name == 'Marius Panduru', 'Did you spell your name correctly?'
+
+def test_mihai_cosor():
+	your_name = greet_mihai_cosor()
+	if your_name == 'missing':
+		return
+	assert your_name == 'Mihai Cosor', 'Did you spell your name correctly?'
+
+def test_mircea_adrian_pantazi():
+	your_name = greet_mircea_adrian_pantazi()
+	if your_name == 'missing':
+		return
+	assert your_name == 'Mircea Adrian Pantazi', 'Did you spell your name correctly?'
+
+def test_miruna_elena_banu():
+	your_name = greet_miruna_elena_banu()
+	if your_name == 'missing':
+		return
+	assert your_name == 'Miruna-Elena Banu', 'Did you spell your name correctly?'
+
+def test_nicoleta_corneanu():
+	your_name = greet_nicoleta_corneanu()
+	if your_name == 'missing':
+		return
+	assert your_name == 'Nicoleta Corneanu', 'Did you spell your name correctly?'
+
+def test_nicu_chirila():
+	your_name = greet_nicu_chirila()
+	if your_name == 'missing':
+		return
+	assert your_name == 'Nicu Chirila', 'Did you spell your name correctly?'
+
+def test_ovidiu_lipianu():
+	your_name = greet_ovidiu_lipianu()
+	if your_name == 'missing':
+		return
+	assert your_name == 'Ovidiu Lipianu', 'Did you spell your name correctly?'
+
 def test_pavel_mateescu():
 	your_name = greet_pavel_mateescu()
 	if your_name == 'missing':
 		return
 	assert your_name == 'Pavel Mateescu', 'Did you spell your name correctly?'
+
+def test_petru_georgian_sicoe():
+	your_name = greet_petru_georgian_sicoe()
+	if your_name == 'missing':
+		return
+	assert your_name == 'Petru Georgian Sicoe', 'Did you spell your name correctly?'
 
 def test_radu_chivereanu():
 	your_name = greet_radu_chivereanu()
@@ -39,14 +285,68 @@ def test_radu_chivereanu():
 		return
 	assert your_name == 'Radu Chivereanu', 'Did you spell your name correctly?'
 
+def test_radu_minea():
+	your_name = greet_radu_minea()
+	if your_name == 'missing':
+		return
+	assert your_name == 'Radu Minea', 'Did you spell your name correctly?'
+
+def test_rares_cosmin_niculescu():
+	your_name = greet_rares_cosmin_niculescu()
+	if your_name == 'missing':
+		return
+	assert your_name == 'Rares-Cosmin Niculescu', 'Did you spell your name correctly?'
+
 def test_razvan_matisan():
 	your_name = greet_razvan_matisan()
 	if your_name == 'missing':
 		return
 	assert your_name == 'Razvan Matisan', 'Did you spell your name correctly?'
 
-def test_laurentiu_olteanu():
-	your_name = greet_laurentiu_olteanu()
+def test_razvan_ursatanu():
+	your_name = greet_razvan_ursatanu()
 	if your_name == 'missing':
 		return
-	assert your_name == 'Laurentiu Olteanu', 'Did you spell your name correctly?'
+	assert your_name == 'Răzvan Ursățanu', 'Did you spell your name correctly?'
+
+def test_sebastian_ion_nae():
+	your_name = greet_sebastian_ion_nae()
+	if your_name == 'missing':
+		return
+	assert your_name == 'Sebastian-Ion Nae', 'Did you spell your name correctly?'
+
+def test_silviu_popescu():
+	your_name = greet_silviu_popescu()
+	if your_name == 'missing':
+		return
+	assert your_name == 'Silviu Popescu', 'Did you spell your name correctly?'
+
+def test_stefan_alin_pahontu():
+	your_name = greet_stefan_alin_pahontu()
+	if your_name == 'missing':
+		return
+	assert your_name == 'Ștefan Alin Pahonțu', 'Did you spell your name correctly?'
+
+def test_stefan_grosu():
+	your_name = greet_stefan_grosu()
+	if your_name == 'missing':
+		return
+	assert your_name == 'Stefan Grosu', 'Did you spell your name correctly?'
+
+def test_stefan_marian_nedelcu():
+	your_name = greet_stefan_marian_nedelcu()
+	if your_name == 'missing':
+		return
+	assert your_name == 'Stefan Marian Nedelcu', 'Did you spell your name correctly?'
+
+def test_teodor_constantin_sicoe():
+	your_name = greet_teodor_constantin_sicoe()
+	if your_name == 'missing':
+		return
+	assert your_name == 'Teodor-Constantin Sicoe', 'Did you spell your name correctly?'
+
+def test_vlad_stanciu():
+	your_name = greet_vlad_stanciu()
+	if your_name == 'missing':
+		return
+	assert your_name == 'Vlad Stanciu', 'Did you spell your name correctly?'

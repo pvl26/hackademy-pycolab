@@ -68,7 +68,7 @@ def greet_camelia_alexandra_iancu():
 	return 'missing'
 
 def greet_claudiu_leonard_guster():
-	return 'missing'
+	return 'Claudiu-Leonard Guster'
 
 def greet_cristian_descultu():
 	return 'Cristian Descultu'

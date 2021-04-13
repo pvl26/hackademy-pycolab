@@ -17,7 +17,7 @@ def greet_alexandru_toader():
 	return 'missing'
 
 def greet_alin_bonciu():
-	return 'missing'
+	return 'Alin Bonciu'
 
 def greet_ana_maria_rotari():
 	return 'missing'

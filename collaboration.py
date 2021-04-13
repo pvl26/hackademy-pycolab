@@ -237,3 +237,4 @@ if __name__ == '__main__':
 	students += [greet_vlad_stanciu()]
 	not_missing = lambda i: i != 'missing'
 	print('\n'.join(filter(not_missing, students)))
+ 

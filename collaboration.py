@@ -53,7 +53,7 @@ def greet_aurel_ristoiu():
 	return 'missing'
 
 def greet_aurelia_miruna_hascau():
-	return 'missing'
+	return 'Aurelia-Miruna Hăşcău'
 
 def greet_berta_ioana_voica():
 	return 'Berta Ioana Voica'

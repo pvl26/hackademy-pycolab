@@ -173,7 +173,7 @@ def greet_teodor_constantin_sicoe():
 	return 'missing'
 
 def greet_vlad_stanciu():
-	return 'missing'
+	return 'Vlad Stanciu'
 
 if __name__ == '__main__':
 	students = []

@@ -116,7 +116,7 @@ def greet_marius_panduru():
 	return 'missing'
 
 def greet_mihai_cosor():
-	return 'missing'
+	return 'Mihai Cosor'
 
 def greet_mircea_adrian_pantazi():
 	return 'missing'

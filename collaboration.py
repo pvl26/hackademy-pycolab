@@ -113,7 +113,7 @@ def greet_marius_dinu():
 	return 'missing'
 
 def greet_marius_panduru():
-	return 'missing'
+	return 'Marius Panduru'
 
 def greet_mihai_cosor():
 	return 'missing'

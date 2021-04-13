@@ -8,7 +8,7 @@ def greet_alexandra_moroiu():
 	return 'Alexandra Moroiu'
 
 def greet_alexandra_andreea_balan():
-	return 'missing'
+	return 'Alexandra-Andreea Balan'
 
 def greet_alexandru_apostolescu():
 	return 'missing'

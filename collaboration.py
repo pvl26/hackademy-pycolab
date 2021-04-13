@@ -5,7 +5,7 @@ def greet_alexandra_luca():
 	return 'missing'
 
 def greet_alexandra_moroiu():
-	return 'missing'
+	return 'Alexandra Moroiu'
 
 def greet_alexandra_andreea_balan():
 	return 'missing'
@@ -17,7 +17,7 @@ def greet_alexandru_toader():
 	return 'missing'
 
 def greet_alin_bonciu():
-	return 'missing'
+	return 'Alin Bonciu'
 
 def greet_ana_maria_rotari():
 	return 'missing'
@@ -41,22 +41,22 @@ def greet_andrei_laurentiu_olteanu():
 	return 'missing'
 
 def greet_andrei_serban():
-	return 'missing'
+	return 'Andrei Serban'
 
 def greet_andrei_alexandru_podaru():
 	return 'missing'
 
 def greet_andrei_ioan_ionita():
-	return 'missing'
+	return 'Andrei-Ioan Ioniță'
 
 def greet_aurel_ristoiu():
 	return 'missing'
 
 def greet_aurelia_miruna_hascau():
-	return 'missing'
+	return 'Aurelia-Miruna Hăşcău'
 
 def greet_berta_ioana_voica():
-	return 'missing'
+	return 'Berta Ioana Voica'
 
 def greet_bianca_stoicut():
 	return 'missing'
@@ -71,7 +71,7 @@ def greet_claudiu_leonard_guster():
 	return 'missing'
 
 def greet_cristian_descultu():
-	return 'missing'
+	return 'Cristian Descultu'
 
 def greet_cristian_olaru():
 	return 'missing'
@@ -89,7 +89,7 @@ def greet_ioana_profeanu():
 	return 'missing'
 
 def greet_iulia_andreea_grigore():
-	return 'missing'
+	return 'Iulia-Andreea Grigore'
 
 def greet_iustin_sima():
 	return 'missing'
@@ -107,16 +107,16 @@ def greet_mara_nicolae():
 	return 'missing'
 
 def greet_maria_stoichitescu():
-	return 'missing'
+	return 'Maria Stoichitescu'
 
 def greet_marius_dinu():
 	return 'missing'
 
 def greet_marius_panduru():
-	return 'missing'
+	return 'Marius Panduru'
 
 def greet_mihai_cosor():
-	return 'missing'
+	return 'Mihai Cosor'
 
 def greet_mircea_adrian_pantazi():
 	return 'missing'
@@ -134,10 +134,10 @@ def greet_ovidiu_lipianu():
 	return 'missing'
 
 def greet_pavel_mateescu():
-	return 'missing'
+	return 'Pavel Mateescu'
 
 def greet_petru_georgian_sicoe():
-	return 'missing'
+	return 'Petru Georgian Sicoe'
 
 def greet_radu_chivereanu():
 	return 'missing'
@@ -152,10 +152,10 @@ def greet_razvan_matisan():
 	return 'missing'
 
 def greet_razvan_ursatanu():
-	return 'missing'
+	return 'Răzvan Ursățanu'
 
 def greet_sebastian_ion_nae():
-	return 'missing'
+	return 'Sebastian-Ion Nae'
 
 def greet_silviu_popescu():
 	return 'missing'
@@ -167,7 +167,7 @@ def greet_stefan_grosu():
 	return 'missing'
 
 def greet_stefan_marian_nedelcu():
-	return 'missing'
+	return 'Stefan Marian Nedelcu'
 
 def greet_teodor_constantin_sicoe():
 	return 'missing'

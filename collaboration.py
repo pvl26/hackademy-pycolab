@@ -2,7 +2,7 @@
 # Add your full name from Moodle to your function.
 
 def greet_alexandra_luca():
-	return 'missing'
+	return 'Alexandra Luca'
 
 def greet_alexandra_moroiu():
 	return 'Alexandra Moroiu'

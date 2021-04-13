@@ -155,7 +155,7 @@ def greet_razvan_ursatanu():
 	return 'Răzvan Ursățanu'
 
 def greet_sebastian_ion_nae():
-	return 'missing'
+	return 'Sebastian-Ion Nae'
 
 def greet_silviu_popescu():
 	return 'missing'

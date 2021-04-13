@@ -74,7 +74,7 @@ def greet_cristian_descultu():
 	return 'Cristian Descultu'
 
 def greet_cristian_olaru():
-	return 'missing'
+	return 'Cristian Olaru'
 
 def greet_diana_dutica():
 	return 'missing'

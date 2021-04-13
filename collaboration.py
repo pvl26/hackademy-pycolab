@@ -125,7 +125,7 @@ def greet_miruna_elena_banu():
 	return 'Miruna-Elena Banu'
 
 def greet_nicoleta_corneanu():
-	return 'missing'
+	return 'Nicoleta Corneanu'
 
 def greet_nicu_chirila():
 	return 'missing'

@@ -170,7 +170,7 @@ def greet_stefan_marian_nedelcu():
 	return 'Stefan Marian Nedelcu'
 
 def greet_teodor_constantin_sicoe():
-	return 'missing'
+	return 'Teodor-Constantin Sicoe'
 
 def greet_vlad_stanciu():
 	return 'Vlad Stanciu'

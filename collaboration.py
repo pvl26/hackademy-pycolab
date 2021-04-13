@@ -71,7 +71,7 @@ def greet_claudiu_leonard_guster():
 	return 'missing'
 
 def greet_cristian_descultu():
-	return 'missing'
+	return 'Cristian Descultu'
 
 def greet_cristian_olaru():
 	return 'missing'

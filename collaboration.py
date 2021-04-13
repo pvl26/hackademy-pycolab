@@ -137,7 +137,7 @@ def greet_pavel_mateescu():
 	return 'Pavel Mateescu'
 
 def greet_petru_georgian_sicoe():
-	return 'missing'
+	return 'Petru Georgian Sicoe'
 
 def greet_radu_chivereanu():
 	return 'missing'

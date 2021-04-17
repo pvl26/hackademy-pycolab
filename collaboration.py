@@ -62,7 +62,7 @@ def greet_bianca_stoicut():
 	return 'missing'
 
 def greet_bogdan_butanriu():
-	return 'missing'
+	return 'Bogdan Butanriu'
 
 def greet_camelia_alexandra_iancu():
 	return 'missing'

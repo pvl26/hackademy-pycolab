@@ -95,7 +95,7 @@ def greet_iustin_sima():
 	return 'Iustin Sima'
 
 def greet_laura_trandafir():
-	return 'missing'
+	return 'Laura Trandafir'
 
 def greet_laurentiu_olteanu():
 	return 'missing'

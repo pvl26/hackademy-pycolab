@@ -38,7 +38,7 @@ with open(sys.argv[1]) as f, open('collaboration.py', 'w') as colab, open('test_
             skip_header = False
             continue
 
-        full_name = student[3] + ' ' + student[4]
+        full_name = student[0] + ' ' + student[1]
         code_name = unidecode(full_name.lower().replace('-', '_').replace(' ', '_'))
 
         function_call, code = generate_code(code_name)

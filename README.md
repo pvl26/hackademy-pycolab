@@ -45,6 +45,3 @@ git clone <repo_link>
 ## First changes
 * ```git push origin pretty``` Push changes from `pretty` branch.
 * ```git pull origin main``` Make sure you are on the `main` branch when pulling! 
-
-
-

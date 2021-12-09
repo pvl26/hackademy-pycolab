@@ -212,7 +212,7 @@ def greet_diana_preda():
 	return 'missing'
 
 def greet_george_raducanu():
-	return 'missing'
+	return 'George Raducanu'
 
 def greet_lavinia_maria_raduta():
 	return 'missing'

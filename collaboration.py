@@ -47,7 +47,7 @@ def greet_darius_brinzan():
 	return 'missing'
 
 def greet_theodor_ioan_buliga():
-	return 'missing'
+	return 'Theodor Ioan Buliga'
 
 def greet_razvan_burlacu():
 	return 'missing'

@@ -205,7 +205,7 @@ def test_bogdan_dumitrescu():
 	your_name = greet_bogdan_dumitrescu()
 	if your_name == 'missing':
 		return
-	assert your_name == 'Bogdan Dumitrescu ', 'Did you spell your name correctly?'
+	assert your_name == 'Bogdan Dumitrescu', 'Did you spell your name correctly?'
 
 def test_rares_dumitrescu():
 	your_name = greet_rares_dumitrescu()

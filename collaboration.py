@@ -14,7 +14,7 @@ def greet_calcan_andrei():
 	return 'missing'
 
 def greet_draica_andrei():
-	return 'missing'
+	return "Draica Andrei"
 
 def greet_ivascu_andrei():
 	return 'missing'

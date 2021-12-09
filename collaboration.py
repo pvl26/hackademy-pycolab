@@ -179,7 +179,7 @@ def greet_robert_ionut_nastase():
 	return 'missing'
 
 def greet_vlad_negoita():
-	return 'missing'
+	return 'Vlad Negoita'
 
 def greet_radu_nichita():
 	return 'missing'

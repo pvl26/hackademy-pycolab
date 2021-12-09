@@ -269,7 +269,7 @@ def greet_alexandru_valentin_stefanescu():
 	return 'missing'
 
 def greet_dumitru_bianca_stefania():
-	return 'missing'
+	return 'Dumitru Bianca Stefania'
 
 def greet_andrei_roberto_stoica():
 	return 'missing'

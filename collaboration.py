@@ -119,7 +119,7 @@ def greet_teodora_grecu():
 	return 'missing'
 
 def greet_armand_gabriel_hangu():
-	return 'missing'
+	return 'Armand-Gabriel Hangu'
 
 def greet_hritcu_mesenschi_iasmina():
 	return 'missing'

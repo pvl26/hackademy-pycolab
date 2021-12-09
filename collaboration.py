@@ -197,7 +197,7 @@ def greet_mihai_para():
 	return 'Mihai Para'
 
 def greet_catalin_ciprian_pasare():
-	return 'missing'
+	return 'Catalin-Ciprian Pasare'
 
 def greet_mihaicuta_paul_gabriel():
 	return 'missing'

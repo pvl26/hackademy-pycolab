@@ -98,7 +98,7 @@ def greet_daniela_alexandra_dragusin():
 	return 'missing'
 
 def greet_andreea_drehuta():
-	return 'missing'
+	return 'Andreea Drehuta'
 
 def greet_bogdan_dumitrescu():
 	return 'Bogdan Dumitrescu'

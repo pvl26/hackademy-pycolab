@@ -29,7 +29,7 @@ def greet_david_anghel():
 	return 'missing'
 
 def greet_andrei_daniel_anghelescu():
-	return 'missing'
+	return 'Andrei Daniel Anghelescu'
 
 def greet_miruna_elena_banu():
 	return 'missing'

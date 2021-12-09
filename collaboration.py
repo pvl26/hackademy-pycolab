@@ -35,7 +35,7 @@ def greet_miruna_elena_banu():
 	return 'missing'
 
 def greet_sorin_petrut_barbu():
-	return 'missing'
+	return 'Sorin Petrut Barbu'
 
 def greet_mihnea_branzeu():
 	return 'missing'

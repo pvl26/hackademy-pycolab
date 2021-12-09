@@ -167,7 +167,7 @@ def greet_patrascu_matei():
 	return 'missing'
 
 def greet_barbu_mihaela_daniela():
-	return 'missing'
+	return 'Barbu Mihaela-Daniela'
 
 def greet_paraschiva_mihai():
 	return 'missing'

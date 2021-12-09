@@ -143,7 +143,7 @@ def greet_nicoara_laura_elena():
 	return 'missing'
 
 def greet_gabriela_limberea():
-	return 'missing'
+	return 'Gabriela Limberea'
 
 def greet_lidia_elena_manea():
 	return 'missing'

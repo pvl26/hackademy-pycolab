@@ -233,7 +233,7 @@ def greet_danila_robert():
 	return 'missing'
 
 def greet_grancsa_robert():
-	return 'missing'
+	return 'Grancsa Robert'
 
 def greet_untea_robert():
 	return 'missing'

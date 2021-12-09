@@ -284,7 +284,7 @@ def greet_mihalea_tiberiu_marian():
 	return 'missing'
 
 def greet_marcu_tudor():
-	return 'missing'
+	return 'Marcu Tudor'
 
 def greet_andreea_tudorache():
 	return 'missing'

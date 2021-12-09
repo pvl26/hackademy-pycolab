@@ -191,7 +191,7 @@ def greet_irina_cristina_nita():
 	return 'missing'
 
 def greet_tarik_ilhan_omer():
-	return 'missing'
+	return 'Tarik Ilhan Omer'
 
 def greet_mihai_para():
 	return 'missing'

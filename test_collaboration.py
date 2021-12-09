@@ -47,7 +47,7 @@ def test_spoiala_andrei_cristian():
 
 def test_dragomir_andrei_mihai():
 	your_name = greet_dragomir_andrei_mihai()
-	if your_name == 'missing':
+	if your_name == 'Dragomir Andrei-Mihai':
 		return
 	assert your_name == 'Dragomir Andrei-Mihai', 'Did you spell your name correctly?'
 

@@ -23,7 +23,7 @@ def greet_spoiala_andrei_cristian():
 	return 'missing'
 
 def greet_dragomir_andrei_mihai():
-	return 'missing'
+	return 'Dragomir Andrei-Mihai'
 
 def greet_david_anghel():
 	return 'missing'

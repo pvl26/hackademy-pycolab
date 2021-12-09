@@ -113,7 +113,7 @@ def greet_motrogan_elena_alexandra():
 	return 'missing'
 
 def greet_vlad_gheorghiu():
-	return 'missing'
+	return 'Vlad Gheorghiu'
 
 def greet_teodora_grecu():
 	return 'missing'

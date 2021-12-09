@@ -146,7 +146,7 @@ def greet_gabriela_limberea():
 	return 'missing'
 
 def greet_lidia_elena_manea():
-	return 'missing'
+	return 'Lidia-Elena Manea'
 
 def greet_vlad_manolache():
 	return 'missing'

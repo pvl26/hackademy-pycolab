@@ -215,7 +215,7 @@ def greet_george_raducanu():
 	return 'missing'
 
 def greet_lavinia_maria_raduta():
-	return 'missing'
+	return 'Lavinia-Maria Raduta'
 
 def greet_beatris_ranja():
 	return 'missing'

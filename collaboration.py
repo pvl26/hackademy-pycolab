@@ -176,7 +176,7 @@ def greet_leahu_morie_robert_andrei():
 	return 'missing'
 
 def greet_robert_ionut_nastase():
-	return 'Robert-Ionut'
+	return 'Robert-Ionut Nastase'
 
 def greet_vlad_negoita():
 	return 'missing'

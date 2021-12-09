@@ -260,7 +260,7 @@ def greet_vlad_stanciu():
 	return 'missing'
 
 def greet_mihaela_cristina_stavarache():
-	return 'missing'missing
+	return 'missing'
 
 def greet_ioana_stefan():
 	return 'missing'

@@ -248,7 +248,7 @@ def greet_madalin_serbu():
 	return 'missing'
 
 def greet_andreea_sima():
-	return 'missing'
+	return 'Andreea Sima'
 
 def greet_leu_dobre_simona():
 	return 'Leu-Dobre Simona'

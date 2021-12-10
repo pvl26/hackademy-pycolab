@@ -296,7 +296,7 @@ def greet_stefania_tudorancea():
 	return 'missing'
 
 def greet_andrei_tulpan():
-	return 'missing'
+	return 'Andrei Tulpan'
 
 def greet_andrei_vasilescu():
 	return 'missing'

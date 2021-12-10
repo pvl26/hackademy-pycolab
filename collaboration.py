@@ -415,7 +415,7 @@ if __name__ == '__main__':
 	students += [greet_mihnea_andrei_vasilescu()]
 	students += [greet_alexandru_nicolae_vladut()]
 	students += [greet_andrei_laurentiu_olteanu()]
-	not_missing = lambda i: i != 'missing'
+	not_missing = lambda i: i != 'Andreea-Cristina Stan'
 
 	print('Here are some awesome people:\n')
 	print('\n'.join(filter(not_missing, students)))

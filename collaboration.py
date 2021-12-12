@@ -254,7 +254,7 @@ def greet_leu_dobre_simona():
 	return 'Leu-Dobre Simona'
 
 def greet_andreea_cristina_stan():
-	return 'missing'
+	return 'Andreea-Cristina Stan'
 
 def greet_vlad_stanciu():
 	return 'missing'
@@ -415,7 +415,7 @@ if __name__ == '__main__':
 	students += [greet_mihnea_andrei_vasilescu()]
 	students += [greet_alexandru_nicolae_vladut()]
 	students += [greet_andrei_laurentiu_olteanu()]
-	not_missing = lambda i: i != 'Andreea-Cristina Stan'
+	not_missing = lambda i: i != 'missing'
 
 	print('Here are some awesome people:\n')
 	print('\n'.join(filter(not_missing, students)))

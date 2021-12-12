@@ -254,7 +254,7 @@ def greet_leu_dobre_simona():
 	return 'Leu-Dobre Simona'
 
 def greet_andreea_cristina_stan():
-	return 'missing'
+	return 'Andreea-Cristina Stan'
 
 def greet_vlad_stanciu():
 	return 'missing'

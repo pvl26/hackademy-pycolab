@@ -299,7 +299,7 @@ def greet_andrei_tulpan():
 	return 'Andrei Tulpan'
 
 def greet_andrei_vasilescu():
-	return 'missing'
+	return 'Andrei Vasilescu'
 
 def greet_mihnea_andrei_vasilescu():
 	return 'missing'

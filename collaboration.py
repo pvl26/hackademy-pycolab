@@ -74,7 +74,7 @@ def greet_andreea___bianca_spataru():
 	return 'missing'
 
 def greet_adriana_stanica():
-	return 'Adriana Stanica'
+	return 'Adriana Stănică'
 
 def greet_apostol_stefan_alexandru():
 	return 'missing'

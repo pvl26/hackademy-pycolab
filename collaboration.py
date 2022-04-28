@@ -80,7 +80,7 @@ def greet_apostol_stefan_alexandru():
 	return 'missing'
 
 def greet_alin_mihaita_stefanescu():
-	return 'alin.stefanescu1204'
+	return 'Alin-Mihaita Stefanescu'
 
 def greet_andra_ioana_stoica():
 	return 'missing'

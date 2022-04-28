@@ -77,7 +77,7 @@ def greet_adriana_stanica():
 	return 'missing'
 
 def greet_apostol_stefan_alexandru():
-	return 'stefan.apostol1906'
+	return 'Apostol Stefan Alexandru'
 
 def greet_alin_mihaita_stefanescu():
 	return 'missing'

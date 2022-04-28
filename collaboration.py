@@ -38,7 +38,7 @@ def greet_cristina_alexandra_draica():
 	return 'missing'
 
 def greet_violeta_ana_maria_draica():
-	return 'missing'
+	return 'violetaanamaria'
 
 def greet_silvia_eremia():
 	return 'missing'

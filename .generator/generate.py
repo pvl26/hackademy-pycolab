@@ -51,7 +51,9 @@ with open(sys.argv[1]) as f, open('collaboration.py', 'w') as colab, open('test_
 
     main_body += (
         "\tnot_missing = lambda i: i != 'missing'\n"
-        """\tprint('\\n'.join(filter(not_missing, students)))\n"""
+        "\tprint('Here are some awesome people:\\n')\n"
+        "\tprint('\\n'.join(filter(not_missing, students)))\n"
+        "\tprint('\\nKudos to you!')\n"
     )
 
     colab.write(warning)

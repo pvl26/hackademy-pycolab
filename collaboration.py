@@ -8,7 +8,7 @@ def greet_petrea_andrei():
 	return 'missing'
 
 def greet_george_leonard_batca():
-	return 'missing'
+	return 'George Leonard'
 
 def greet_elena_catalina_bogdan():
 	return 'missing'

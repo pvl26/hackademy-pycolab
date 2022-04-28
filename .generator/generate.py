@@ -50,7 +50,7 @@ with open(sys.argv[1]) as f, open('collaboration.py', 'w') as colab, open('test_
         test_cases += generate_test_code(function_call, username, full_name)
 
     main_body += (
-        "\tnot_missing = lambda i: i != 'missing'\n"
+        "\tnot_missing = lambda i: i != 'missing'\n\n"
         "\tprint('Here are some awesome people:\\n')\n"
         "\tprint('\\n'.join(filter(not_missing, students)))\n"
         "\tprint('\\nKudos to you!')\n"

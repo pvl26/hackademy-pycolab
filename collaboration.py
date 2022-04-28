@@ -41,7 +41,7 @@ def greet_violeta_ana_maria_draica():
 	return 'missing'
 
 def greet_silvia_eremia():
-	return 'missing'
+	return 'Silvia Eremia'
 
 def greet_marinela_lavinia_graure():
 	return 'missing'

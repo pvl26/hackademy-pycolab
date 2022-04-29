@@ -2,225 +2,279 @@
 # Add your full name from Moodle to your function.
 
 def greet_bianca_andrei():
-	return 'Bianca Andrei'
+    return 'Bianca Andrei'
+
 
 def greet_petrea_andrei():
-	return 'Petrea Andrei'
+    return 'Petrea Andrei'
+
 
 def greet_george_leonard_batca():
-	return 'missing'
+    return 'missing'
+
 
 def greet_elena_catalina_bogdan():
-	return 'missing'
+    return 'missing'
+
 
 def greet_alexandru_calciu():
-	return 'missing'
+    return 'missing'
+
 
 def greet_adrian_florin_codrianu():
-	return 'Adrian Florin Codrianu'
+    return 'Adrian Florin Codrianu'
+
 
 def greet_stefania_croitoru():
-	return 'missing'
+    return 'missing'
+
 
 def greet_tapusi_daniel_cristian_marian():
-	return 'missing'
+    return 'missing'
+
 
 def greet_sara_dimoiu():
-	return 'missing'
+    return 'missing'
+
 
 def greet_madalin_dina():
-	return 'missing'
+    return 'missing'
+
 
 def greet_marta_dinca():
-	return 'missing'
+    return 'missing'
+
 
 def greet_cristina_alexandra_draica():
-	return 'missing'
+    return 'missing'
+
 
 def greet_violeta_ana_maria_draica():
-	return 'missing'
+    return 'missing'
+
 
 def greet_silvia_eremia():
-	return 'missing'
+    return 'missing'
+
 
 def greet_marinela_lavinia_graure():
-	return 'missing'
+    return 'missing'
+
 
 def greet_stefanita_ionita():
-	return 'missing'
+    return 'missing'
+
 
 def greet_melania_valentina_marian():
-	return 'Melania Valentina Marian'
+    return 'Melania Valentina Marian'
+
 
 def greet_claudiu_mogodeanu():
-	return 'missing'
+    return 'missing'
+
 
 def greet_matei_patrascu():
-	return 'missing'
+    return 'missing'
+
 
 def greet_claudia_alexandra_pintoiu():
-	return 'Claudia Alexandra Pintoiu'
+    return 'Claudia Alexandra Pintoiu'
+
 
 def greet_bianca_elena_popescu():
-	return 'missing'
+    return 'missing'
+
 
 def greet_eduard_rosca():
-	return 'missing'
+    return 'missing'
+
 
 def greet_mihai_alexandru_sirbu():
-	return 'Mihai-Alexandru Sîrbu'
+    return 'Mihai-Alexandru Sîrbu'
+
 
 def greet_andreea___bianca_spataru():
-	return 'missing'
+    return 'missing'
+
 
 def greet_adriana_stanica():
-	return 'missing'
+    return 'missing'
+
 
 def greet_apostol_stefan_alexandru():
-	return 'missing'
+    return 'missing'
+
 
 def greet_alin_mihaita_stefanescu():
-	return 'Alin-Mihaita Stefanescu'
+    return 'Alin-Mihaita Stefanescu'
+
 
 def greet_andra_ioana_stoica():
-	return 'missing'
+    return 'missing'
+
 
 def greet_horia_tudor_tatu():
-	return 'Horia-Tudor Tatu'
+    return 'Horia-Tudor Tatu'
+
 
 def greet_andra_vlad():
-	return 'Andra Vlad'
+    return 'Andra Vlad'
+
 
 def greet_catalin_constantin_vrabiuta():
-	return 'missing'
+    return 'missing'
+
 
 def greet_paul_iulian_andrei():
-	return 'missing'
+    return 'missing'
+
 
 def greet_popescu_andrei_liviu():
-	return 'missing'
+    return 'missing'
+
 
 def greet_vlad_andrei_bacanu():
-	return 'missing'
+    return 'missing'
+
 
 def greet_stefania_bajdu():
-	return 'missing'
+    return 'missing'
+
 
 def greet_cristi_daniel_bercu():
-	return 'missing'
+    return 'missing'
+
 
 def greet_ilinca_brezoianu():
-	return 'missing'
+    return 'missing'
+
 
 def greet_razvan_andrei_cristea():
-	return 'missing'
+    return 'missing'
+
 
 def greet_ioana_dinu():
-	return 'missing'
+    return 'missing'
+
 
 def greet_gorgos_felicia():
-	return 'missing'
+    return 'missing'
+
 
 def greet_anca_maria_gaina():
-	return 'missing'
+    return 'missing'
+
 
 def greet_andreea_gherman():
-	return 'missing'
+    return 'missing'
+
 
 def greet_tiberiu_cristian_grigorescu():
-	return 'missing'
+    return 'missing'
+
 
 def greet_catalin_andrei_grozavu():
-	return 'missing'
+    return 'missing'
+
 
 def greet_robert_iacob():
-	return 'missing'
+    return 'missing'
+
 
 def greet_george_alexandru_marin():
-	return 'missing'
+    return 'missing'
+
 
 def greet_mara_moldoveanu():
-	return 'missing'
+    return 'missing'
+
 
 def greet_ana_maria_nae():
-	return 'missing'
+    return 'missing'
+
 
 def greet_ionut_alexandru_netoiu():
-	return 'missing'
+    return 'missing'
+
 
 def greet_amalia_raluca_pencea():
-	return 'missing'
+    return 'missing'
+
 
 def greet_darius_petriceanu():
-	return 'missing'
+    return 'missing'
+
 
 def greet_darius_gabriel_petriceanu():
-	return 'missing'
+    return 'Darius-Gabriel Petriceanu!'
+
 
 def greet_ana_maria_radu():
-	return 'missing'
+    return 'missing'
+
 
 def greet_gheorghe_andrei_stanciu():
-	return 'missing'
+    return 'missing'
+
 
 if __name__ == '__main__':
-	students = []
-	students += [greet_bianca_andrei()]
-	students += [greet_petrea_andrei()]
-	students += [greet_george_leonard_batca()]
-	students += [greet_elena_catalina_bogdan()]
-	students += [greet_alexandru_calciu()]
-	students += [greet_adrian_florin_codrianu()]
-	students += [greet_stefania_croitoru()]
-	students += [greet_tapusi_daniel_cristian_marian()]
-	students += [greet_sara_dimoiu()]
-	students += [greet_madalin_dina()]
-	students += [greet_marta_dinca()]
-	students += [greet_cristina_alexandra_draica()]
-	students += [greet_violeta_ana_maria_draica()]
-	students += [greet_silvia_eremia()]
-	students += [greet_marinela_lavinia_graure()]
-	students += [greet_stefanita_ionita()]
-	students += [greet_melania_valentina_marian()]
-	students += [greet_claudiu_mogodeanu()]
-	students += [greet_matei_patrascu()]
-	students += [greet_claudia_alexandra_pintoiu()]
-	students += [greet_bianca_elena_popescu()]
-	students += [greet_eduard_rosca()]
-	students += [greet_mihai_alexandru_sirbu()]
-	students += [greet_andreea___bianca_spataru()]
-	students += [greet_adriana_stanica()]
-	students += [greet_apostol_stefan_alexandru()]
-	students += [greet_alin_mihaita_stefanescu()]
-	students += [greet_andra_ioana_stoica()]
-	students += [greet_horia_tudor_tatu()]
-	students += [greet_andra_vlad()]
-	students += [greet_catalin_constantin_vrabiuta()]
-	students += [greet_paul_iulian_andrei()]
-	students += [greet_popescu_andrei_liviu()]
-	students += [greet_vlad_andrei_bacanu()]
-	students += [greet_stefania_bajdu()]
-	students += [greet_cristi_daniel_bercu()]
-	students += [greet_ilinca_brezoianu()]
-	students += [greet_razvan_andrei_cristea()]
-	students += [greet_ioana_dinu()]
-	students += [greet_gorgos_felicia()]
-	students += [greet_anca_maria_gaina()]
-	students += [greet_andreea_gherman()]
-	students += [greet_tiberiu_cristian_grigorescu()]
-	students += [greet_catalin_andrei_grozavu()]
-	students += [greet_robert_iacob()]
-	students += [greet_george_alexandru_marin()]
-	students += [greet_mara_moldoveanu()]
-	students += [greet_ana_maria_nae()]
-	students += [greet_ionut_alexandru_netoiu()]
-	students += [greet_amalia_raluca_pencea()]
-	students += [greet_darius_petriceanu()]
-	students += [greet_darius_gabriel_petriceanu()]
-	students += [greet_ana_maria_radu()]
-	students += [greet_gheorghe_andrei_stanciu()]
-	not_missing = lambda i: i != 'missing'
+    students = []
+    students += [greet_bianca_andrei()]
+    students += [greet_petrea_andrei()]
+    students += [greet_george_leonard_batca()]
+    students += [greet_elena_catalina_bogdan()]
+    students += [greet_alexandru_calciu()]
+    students += [greet_adrian_florin_codrianu()]
+    students += [greet_stefania_croitoru()]
+    students += [greet_tapusi_daniel_cristian_marian()]
+    students += [greet_sara_dimoiu()]
+    students += [greet_madalin_dina()]
+    students += [greet_marta_dinca()]
+    students += [greet_cristina_alexandra_draica()]
+    students += [greet_violeta_ana_maria_draica()]
+    students += [greet_silvia_eremia()]
+    students += [greet_marinela_lavinia_graure()]
+    students += [greet_stefanita_ionita()]
+    students += [greet_melania_valentina_marian()]
+    students += [greet_claudiu_mogodeanu()]
+    students += [greet_matei_patrascu()]
+    students += [greet_claudia_alexandra_pintoiu()]
+    students += [greet_bianca_elena_popescu()]
+    students += [greet_eduard_rosca()]
+    students += [greet_mihai_alexandru_sirbu()]
+    students += [greet_andreea___bianca_spataru()]
+    students += [greet_adriana_stanica()]
+    students += [greet_apostol_stefan_alexandru()]
+    students += [greet_alin_mihaita_stefanescu()]
+    students += [greet_andra_ioana_stoica()]
+    students += [greet_horia_tudor_tatu()]
+    students += [greet_andra_vlad()]
+    students += [greet_catalin_constantin_vrabiuta()]
+    students += [greet_paul_iulian_andrei()]
+    students += [greet_popescu_andrei_liviu()]
+    students += [greet_vlad_andrei_bacanu()]
+    students += [greet_stefania_bajdu()]
+    students += [greet_cristi_daniel_bercu()]
+    students += [greet_ilinca_brezoianu()]
+    students += [greet_razvan_andrei_cristea()]
+    students += [greet_ioana_dinu()]
+    students += [greet_gorgos_felicia()]
+    students += [greet_anca_maria_gaina()]
+    students += [greet_andreea_gherman()]
+    students += [greet_tiberiu_cristian_grigorescu()]
+    students += [greet_catalin_andrei_grozavu()]
+    students += [greet_robert_iacob()]
+    students += [greet_george_alexandru_marin()]
+    students += [greet_mara_moldoveanu()]
+    students += [greet_ana_maria_nae()]
+    students += [greet_ionut_alexandru_netoiu()]
+    students += [greet_amalia_raluca_pencea()]
+    students += [greet_darius_petriceanu()]
+    students += [greet_darius_gabriel_petriceanu()]
+    students += [greet_ana_maria_radu()]
+    students += [greet_gheorghe_andrei_stanciu()]
+    def not_missing(i): return i != 'missing'
 
-	print('Here are some awesome people:\n')
-	print('\n'.join(filter(not_missing, students)))
-	print('\nKudos to you!')
+    print('Here are some awesome people:\n')
+    print('\n'.join(filter(not_missing, students)))
+    print('\nKudos to you!')

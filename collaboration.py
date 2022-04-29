@@ -134,7 +134,7 @@ def greet_catalin_andrei_grozavu():
 	return 'missing'
 
 def greet_robert_iacob():
-	return 'aici'
+	return 'Robert Iacob'
 
 def greet_george_alexandru_marin():
 	return 'missing'

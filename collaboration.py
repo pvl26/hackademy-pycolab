@@ -128,7 +128,7 @@ def greet_andreea_gherman():
 	return 'missing'
 
 def greet_tiberiu_cristian_grigorescu():
-	return 'missing'
+	return 'Tiberiu-Cristian Grigorescu'
 
 def greet_catalin_andrei_grozavu():
 	return 'missing'

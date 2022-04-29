@@ -86,7 +86,7 @@ def greet_andra_ioana_stoica():
 	return 'missing'
 
 def greet_horia_tudor_tatu():
-	return 'missing'
+	return 'Horia-Tudor Tatu'
 
 def greet_andra_vlad():
 	return 'Andra Vlad'

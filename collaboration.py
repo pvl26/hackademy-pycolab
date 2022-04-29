@@ -161,7 +161,7 @@ def greet_ana_maria_radu():
 	return 'missing'
 
 def greet_gheorghe_andrei_stanciu():
-	return 'missing'
+	return 'Stanciu Gheorghe Andrei'
 
 if __name__ == '__main__':
 	students = []

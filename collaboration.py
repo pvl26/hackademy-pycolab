@@ -5,7 +5,7 @@ def greet_bianca_andrei():
 	return 'Bianca Andrei'
 
 def greet_petrea_andrei():
-	return 'missing'
+	return 'Petrea Andrei'
 
 def greet_george_leonard_batca():
 	return 'missing'

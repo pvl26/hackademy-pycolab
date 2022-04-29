@@ -152,7 +152,7 @@ def greet_amalia_raluca_pencea():
 	return 'missing'
 
 def greet_darius_petriceanu():
-	return 'missing'
+	return 'Darius Petriceanu'
 
 def greet_darius_gabriel_petriceanu():
 	return 'missing'

@@ -116,7 +116,7 @@ def greet_razvan_andrei_cristea():
 	return 'missing'
 
 def greet_ioana_dinu():
-	return 'missing'
+	return 'Ioana Dinu'
 
 def greet_gorgos_felicia():
 	return 'missing'

@@ -140,7 +140,7 @@ def greet_george_alexandru_marin():
 	return 'George Alexandru Marin'
 
 def greet_mara_moldoveanu():
-	return 'missing'
+	return 'Mara Moldoveanu'
 
 def greet_ana_maria_nae():
 	return 'missing'

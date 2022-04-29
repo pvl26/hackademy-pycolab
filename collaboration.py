@@ -104,7 +104,7 @@ def greet_vlad_andrei_bacanu():
 	return 'missing'
 
 def greet_stefania_bajdu():
-	return 'missing'
+	return 'Stefania Bajdu'
 
 def greet_cristi_daniel_bercu():
 	return 'missing'

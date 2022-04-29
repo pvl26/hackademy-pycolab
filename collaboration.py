@@ -47,7 +47,7 @@ def greet_marinela_lavinia_graure():
 	return 'missing'
 
 def greet_stefanita_ionita():
-	return 'missing'
+	return 'Ștefăniță Ioniță'
 
 def greet_melania_valentina_marian():
 	return 'Melania Valentina Marian'

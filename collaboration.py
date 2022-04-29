@@ -98,7 +98,7 @@ def greet_paul_iulian_andrei():
 	return 'missing'
 
 def greet_popescu_andrei_liviu():
-	return 'Popescu Andrei'
+	return 'Popescu Andrei Liviu'
 
 def greet_vlad_andrei_bacanu():
 	return 'missing'

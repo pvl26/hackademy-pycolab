@@ -101,7 +101,7 @@ def greet_andrei_tulpan():
 	return 'missing'
 
 def greet_andrei_voicu():
-	return 'missing'
+	return 'Andrei Voicu'
 
 def greet_mihnea_vulpe():
 	return 'missing'

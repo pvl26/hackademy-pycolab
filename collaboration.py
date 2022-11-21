@@ -104,7 +104,7 @@ def greet_andrei_voicu():
 	return 'missing'
 
 def greet_mihnea_vulpe():
-	return 'missing'
+	return 'Mihnea Vulpe'
 
 if __name__ == '__main__':
 	students = []

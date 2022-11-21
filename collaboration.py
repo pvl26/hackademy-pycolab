@@ -80,7 +80,7 @@ def greet_ionut_pasat():
 	return 'missing'
 
 def greet_teodora_pirvan():
-	return 'missing'
+	return 'Teodora Pirvan'
 
 def greet_mihaela_radu():
 	return 'missing'

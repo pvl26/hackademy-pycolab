@@ -68,7 +68,7 @@ def greet_andra_maslaev():
 	return 'missing'
 
 def greet_brezniceanu_mihai_cristian():
-	return 'missing'
+	return 'Brezniceanu Mihai Cristian'
 
 def greet_david_mihai_militaru():
 	return 'missing'

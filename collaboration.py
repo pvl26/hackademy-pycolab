@@ -32,7 +32,7 @@ def greet_alexandra_cordunasu():
 	return 'Alexandra Cordunașu'
 
 def greet_raluca_cruceru():
-	return 'missing'
+	return 'Raluca Cruceru'
 
 def greet_artemiza_mihaela_dospinescu():
 	return 'missing'

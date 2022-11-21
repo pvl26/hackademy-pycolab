@@ -86,7 +86,7 @@ def greet_mihaela_radu():
 	return 'missing'
 
 def greet_diana_elena_rusu():
-	return 'missing'
+	return 'Diana Elena Rusu'
 
 def greet_stefania_silivestru():
 	return 'missing'

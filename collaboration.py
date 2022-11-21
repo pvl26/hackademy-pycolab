@@ -41,7 +41,7 @@ def greet_mihai_dragos_andrei():
 	return 'missing'
 
 def greet_maria_fugulin():
-	return 'missing'
+	return 'Maria Fugulin'
 
 def greet_laurentiu_marian_gavrila():
 	return 'missing'

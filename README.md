@@ -1,4 +1,4 @@
-g p gg# Python 101 Git Workshop
+# Python 101 Git Workshop
 
 ## SSH Key generation
 Generate key with ```ssh-keygen -t rsa``` Press enter to select defaults.

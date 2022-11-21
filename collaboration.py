@@ -74,7 +74,7 @@ def greet_david_mihai_militaru():
 	return 'missing'
 
 def greet_andrei_minca():
-	return 'missing'
+	return 'Andrei Minca'
 
 def greet_ionut_pasat():
 	return 'missing'
